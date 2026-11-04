@@ -1,0 +1,18 @@
+{
+  "favorites": [],
+  "history": [],
+  "recentSearches": [
+    "phonk"
+  ],
+  "playlists": [],
+  "settings": {
+    "audioQuality": "lossless",
+    "crossfadeSeconds": 2,
+    "showVisualizer": true,
+    "enableAmbientParticles": true,
+    "lyricsFontSize": "large",
+    "volume": 0.85,
+    "isMuted": false,
+    "themeGraphiteTone": "deep-charcoal"
+  }
+}

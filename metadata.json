@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Music",
+  "description": "Full-featured cross-platform music streaming platform with universal multi-source search, synchronized lyrics, audio visualizer, and custom library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
