@@ -1,6 +1,7 @@
 {
-  "name": "Aetheria Music",
-  "description": "Full-featured cross-platform music streaming platform with universal multi-source search, synchronized lyrics, audio visualizer, and custom library.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "TrueMusic Sync",
+  "description": "A music player ensuring full-track playback via rigorous validation and precise, timestamped lyrics synchronization for every song.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
